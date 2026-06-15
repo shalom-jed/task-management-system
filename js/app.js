@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function loadTasks() {
         showLoading(true);
-        fetch('actions/get-tasks.php')
+        fetch('actions/get-task.php')
             .then(res => res.json())
             .then(data => {
                 showLoading(false);

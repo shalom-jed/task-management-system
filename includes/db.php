@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost:3306';
 $user = 'root';
-$pass = '1234';
+$pass = '';
 $dbname = 'intern_task_system';
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
