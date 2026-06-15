@@ -17,7 +17,7 @@ A simple task manager built with Core PHP, MySQL, and vanilla JavaScript.
 - Open `includes/db.php`
 - Default credentials (XAMPP):  
   `$user = 'root'`  
-  `$pass = '1234'`
+  `$pass = ''`
 
 ### 4. Run the Project
 - Move this `project` folder to `C:\xampp\htdocs\` (or your web server root)
